@@ -1,6 +1,6 @@
-# IoTegrity Backend Uygulaması
+# IoTegrity
 
-Bu uygulama cihaz kaydetmekten, metrik toplamaya kadar bir log ve
+Bu repo cihaz kaydetmekten, metrik toplamaya kadar bir log ve
 auth servisi olarak çalışuyor. Bütün API endpointleri olabildiğince
 ayrık biçimde tasarlandı. Bunun sebebi herhangi bir sorun anında belli
 bir servis çöktüğünde, diğer bütün servisleri aşağı indirmeyi indirmemizden
